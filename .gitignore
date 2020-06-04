@@ -1,3 +1,6 @@
+# Dirs
+build-msvc-debug/
+
 # Prerequisites
 *.d
 
